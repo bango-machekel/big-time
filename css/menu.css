@@ -1,0 +1,158 @@
+body{
+    background-color: #19241A;
+
+}
+
+nav{
+    padding: 0;
+
+}
+#d{
+    position: fixed;
+    right: 100px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#c{
+    position: fixed;
+    right: 350px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#b{
+    position: fixed;
+    left: 300px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#a{
+    position: fixed;
+    left: 40px;
+    top: 15px;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.sb{
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 15%;
+    width: 100%;
+}
+figure{
+    display: grid;
+    position: fixed;
+    left: 450px;
+    top: 0;
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    padding: 3em;
+    
+
+}
+
+.bgg{
+   padding: 0;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+.menu2{
+    position: absolute;
+    top: 19%;
+    left: 19%;
+}
+.menu4{
+    position: absolute;
+    bottom: 31%;
+    left: 19%;
+}
+.menu1{
+    position: absolute;
+    right: 30px;
+    top: 17%;
+}
+.menu3{
+    position: absolute;
+    top: 19%;
+    right: 25%;
+}
+.menu{
+    position: absolute;
+    bottom: 31%;
+    right: 25%;
+}
+.menu5{
+    position: absolute;
+    left: 30px;
+    top: 17%;
+}
+#menu2{
+    position: absolute;
+    color: #3CF655;
+    font-style:italic;
+    font-size: 20px;
+    left: 20%;
+    bottom: 52%;
+}
+#menu4{
+    position: absolute;
+    color: #3CF655;
+    font-style:italic;
+    font-size: 20px;
+    left: 22%;
+    bottom: 25%;
+}
+#menu3{
+    position: absolute;
+    color: #3CF655;
+    font-style:italic;
+    font-size: 20px;
+    right: 28%;
+    bottom: 52%;
+}
+#menu{
+    position: absolute;
+    color: #3CF655;
+    font-style:italic;
+    font-size: 20px;
+    right: 28%;
+    bottom: 25%;
+}
+.more{
+    position: absolute;
+    color:darkcyan;
+    font-size: 20px;
+    right: 46%;
+    top: 50%;
+    background: #B7FFF8;
+    border-radius: 10px;
+    
+}
+.mores{
+    position: absolute;
+    color:darkcyan;
+    font-size: 20px;
+    right: 44%;
+    top: 35%;
+    background: #B7FFF8;
+    border-radius: 10px;
+    
+}

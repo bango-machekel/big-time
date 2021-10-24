@@ -1,0 +1,101 @@
+body{
+    background-color: #19241A;
+
+}
+
+nav{
+    padding: 0;
+
+}
+#d{
+    position: fixed;
+    right: 100px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#c{
+    position: fixed;
+    right: 350px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#b{
+    position: fixed;
+    left: 300px;
+    top: 6px;
+    font-size: 30px;
+
+}
+#a{
+    position: fixed;
+    left: 40px;
+    top: 15px;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    margin: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.sb{
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 15%;
+    width: 100%;
+}
+figure{
+    display: grid;
+    position: fixed;
+    left: 450px;
+    top: 0;
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    padding: 3em;
+    
+
+}
+
+.bgg{
+   padding: 0;
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+.text{
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    color: #98FF91;
+    font-size: 20px;
+
+}
+.text2{
+    color: #98FF91;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    font-size: 23px;
+}
+.ghoul{
+    position: absolute;
+    top: 30%;
+    right: 5%;
+}
+.localisationn{
+    position: absolute;
+    right: 30%;
+    bottom: 40%;
+}
